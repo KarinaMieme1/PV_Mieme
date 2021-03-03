@@ -1,2 +1,2 @@
-# PV_Mieme
+# Pd_Mieme
 patstāvigais praktiskais darbs programmēšanā
